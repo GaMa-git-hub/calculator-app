@@ -35,5 +35,5 @@ This version is designed for users who prefer a visual interface over typing com
 
 ---
 
-Both versions demonstrate progressive development skills and provide a strong foundation in Python programming and user interaction design.
+
 
